@@ -1,0 +1,6 @@
+customtkinter
+ollama
+faster-whisper
+pyttsx3
+sounddevice
+numpy
